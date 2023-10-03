@@ -5,7 +5,7 @@ The objective of this contract is to be submitted for the ETH PROOF Beginner cou
 This smart contract represents a basic token called "MyToken" which demonstrates how cryptocurrency token burning and minting is done.
 
 # Content Overview
-1.**Public Variables**: The contract includes public variables for storing token details:
+1. **Public Variables**: The contract includes public variables for storing token details:
     **tokenName**: Represents the full name of the token ("MARK" in this case).
     **tokenAbbrv**: Represents the abbreviation or symbol for the token ("MRK" in this case).
     **totalSupply**: Represents the total supply of tokens, initially set to 0.
